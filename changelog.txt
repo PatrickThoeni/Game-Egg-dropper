@@ -1,0 +1,4 @@
+- changing the background from canvas and rectangles to a picture (png file)
+- adding bombs coloured red and black.
+- if bombs are catched -> decrease score
+- random interval in which bombs and eggs are dropped
