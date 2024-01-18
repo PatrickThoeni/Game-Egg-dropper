@@ -2,3 +2,4 @@
 - adding bombs coloured red and black.
 - if bombs are catched -> decrease score
 - random interval in which bombs and eggs are dropped
+- To get game to work: download code (egg catcher) and picture (pic2.png). -> go to line 15 and change file path. (path where the downloaded file pic2.png is.) (if the file is in a folder, which is also in a folder, use \\ )
