@@ -6,8 +6,6 @@ from tkinter import Canvas, Label, PhotoImage, Tk, font, messagebox, ttk
 
 pygame.init()
 
-#um Bild als Hintergrund zu nehmen:
-
 canvas_width = 800
 canvas_height = 400
 
